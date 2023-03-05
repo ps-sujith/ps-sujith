@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Sujith PS
+# Hi there 👋,Myself Sujith PS
 
 -  Android Dev @Infosys
 -  Skills :  Android & Kotlin
